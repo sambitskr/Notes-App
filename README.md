@@ -1,7 +1,7 @@
 
 # PicoNote
 
-This Flutter application is designed to help users create, read, update, and delete notes. The application uses Isar DB for storing notes and provides a personalized experience with different themes, such as light and dark modes. The user interface follows Material Design principles, ensuring a clean and intuitive user experience across different screen sizes.
+This Flutter application is designed to help users create, read, update, and delete notes. The application uses Isar Database for storing notes and provides a personalized experience with different themes, such as light and dark modes. The user interface follows Material Design principles, ensuring a clean and intuitive user experience across different screen sizes.
 
 https://github.com/sambitskr/PicoNote/assets/87202351/15f8a9c1-06af-4986-99f1-5049a118478b
 
@@ -27,7 +27,7 @@ https://github.com/sambitskr/PicoNote/assets/87202351/15f8a9c1-06af-4986-99f1-50
    ```bash
    git clone https://github.com/sambitskr/PicoNote.git
 
-2. Set up Isar DB
+2. Set up Isar Database
 - Follow the instructions for setting up Isar DB for Flutter.
 
 ## Project Structure
